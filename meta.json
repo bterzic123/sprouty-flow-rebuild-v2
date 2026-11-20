@@ -1,0 +1,18 @@
+{
+  "flows": [
+    { "channel": "Meta", "headline": "See when Lana’s next leap starts", "paywall_opens_on": "her own week in your Week screen mockup", "note": "“Support during baby leaps” arrives ticked" },
+    { "channel": "Meta", "headline": "Today’s activities for Zoe, week 12", "paywall_opens_on": "Exercises", "note": "Quality time arrives ticked" },
+    { "channel": "Apple Ads", "term": "baby milestone tracker sprouty", "headline": "Jane’s firsts, all in one place", "paywall_opens_on": "her own week in your Week screen mockup", "note": "Searched for a milestone tracker" }
+  ],
+  "prices": { "monthly": "5,99€", "yearly": "39,99€", "trial": "7 days", "source": "Sprouty plan screen, EU storefront as recorded" },
+  "today": { "text": "every install meets a notification prompt, the tracking prompt and an account screen before the first question, then a paywall with a sample baby at week 42", "source": "audit_frames" },
+  "asks": ["Who are you to the baby?", "How old are you?", "Is this your first baby?", "What are you expecting from the app?", "Has your baby already been born?", "What is your experience with similar apps?", "So much advice out there – where do you usually learn about your baby’s growth?", "Looking for simple ways to play with your baby?", "During a baby leap, a baby may be fussy, eat less, or sleep poorly. Have you heard about these?", "Babies often sleep poorly. Do you know any possible reasons?", "Where do you keep notes about your baby’s health and development?", "Who was born?", "What’s your baby’s name?", "When is your baby’s birthday?", "At what week was your baby born?", "How was the birth?"],
+  "rebuild": "the ad they tapped ticks their goal, and the trial opens on their own baby's week with a headline from that ad",
+  "ideas": [
+    { "n": 1, "title": "Open the trial on their baby, not a sample", "screen": "Trial", "outcome": "CR +15–20%" },
+    { "n": 2, "title": "Ask about the baby before the account", "screen": "Goals", "outcome": "CR +8% · ARPU +17%" },
+    { "n": 3, "title": "Ask for notifications when you promise the reminder", "screen": "Reminder", "outcome": "CR +10–15%" },
+    { "n": 4, "title": "Show the calendar you just built", "screen": "Calendar", "outcome": "CR +10–15%" },
+    { "n": 5, "title": "Put your 3,000,000+ parents next to the price", "screen": "Plans", "outcome": "CR +10–15%" }
+  ]
+}
